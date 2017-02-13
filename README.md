@@ -28,4 +28,4 @@ b) process the image as earlier and extract each digit using contour methods
 
 c) Draw bounding box for it, then resize to 10x10, and store its pixel values in an array as done earlier.
 
-d) Then we use KNearest.find_nearest() function to find the nearest item to the one we gave. ( If lucky, it recognises the correct digit.)
+d) Then we use KNearest.find_nearest() function to find the nearest item to the one we gave. 
